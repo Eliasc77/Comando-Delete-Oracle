@@ -48,6 +48,8 @@
  | Lopez            | Jose               |   Urquiza   |   4545454   |
  | Salas            | Susana               |   gral. Paz 1234   |   4123456   |
  
+ ___
+ 
  > Delete toda la tabla, tener cuidado siempre con esto ya que podemos arruinar toda la bd
   ```sql
  delete from agenta'
